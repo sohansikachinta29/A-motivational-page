@@ -1,2 +1,3 @@
-# A-motivational-page
-Just the basics of CSS
+# A normal Website
+
+This is a beginner-level portfolio website created using HTML and CSS.
